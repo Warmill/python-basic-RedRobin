@@ -1,0 +1,162 @@
+pwd
+  119  cd
+  120  ls
+  121  cd projects/
+  122  ls
+  123  cd ..
+  124  cd /
+  125  ls
+  126  cd home
+  127  ls
+  128  cd dev/
+  129  ls
+  130  cd /
+  131  ls
+  132  cd /etc
+  133  ls
+  134  cat host
+  135  cat hosts
+  136  ls
+  137  cd ..
+  138  ls
+  139  cd var
+  140  ls
+  141  cd log
+  142  ls
+  143  pwd
+  144  cd mysql/
+  145  ls
+  146  cat error.log
+  147  cd ..
+  148  ls
+  149  cd ...
+  150  cd ..
+  151  ls
+  152  cd lib
+  153  ls
+  154  cd ..
+  155  ls
+  156  cd opt/
+  157  ls
+  158  cd /
+  159  ls
+  160  cd tmp/
+  161  ls
+  162  cd ..
+  163  ls
+  164  cd lib
+  165  ls
+  166  cd ..
+  167  ls
+  168  cd bin/
+  169  ls
+  170  cd /
+  171  ls
+  172  cd usr/
+  173  ls
+  174  cd bin
+  175  ls
+  176  cd /
+  177  ls
+  178  cd
+  179  htop
+  180  sudo apt-get install htop
+  181  htop
+  182  apt-get install htop
+  183  sudo apt-get install net-tools
+  184  sudo apt-get remove htop
+  185  htop
+  186  ls -l
+  187  sudo chmod 777 school.sql 
+  188  ls
+  189  ls -l
+  190  sudo chmod 667 school.sql 
+  191  ls -l
+  192  sudo chmod 771 school.sql 
+  193  ls -l
+  194  sudo chmod -R 777 school.sql 
+  195  sudo chmod -R 777 projects/
+  196  ls -l
+  197  cd projects/
+  198  ls -l
+  199  cd ..
+  200  ls
+  201  sudo chown root:root school.sql 
+  202  ls -l
+  203  apt-get install 
+  204  yum install
+  205  clear
+  206  ls
+  207  cat school.sql 
+  208  ls
+  209  sudo chown dev:dev school.sql 
+  210  nano school.sql 
+  211  gedit school.sql 
+  212  nano school.sql 
+  213  ls
+  214  cat school.sql 
+  215  nano school.sql 
+  216  cd Downloads/
+  217  ls
+  218  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+  219  history
+  220  cd
+  221  ls
+  222  cd courses/
+  223  ls
+  224  mkdir python-Red-Robin
+  225  cd python-Red-Robin/
+  226  ls
+  227  touch first
+  228  git init
+  229  git status
+  230  ls
+  231  git add first 
+  232  git status
+  233  git commit -m "Add file"
+  234  git status
+  235  git log
+  236  git remote add origin https://github.com/Luzhnuy/lection-git.git
+  237  git push origin master
+  238  git status
+  239  nano first 
+  240  git status
+  241  git add .
+  242  git status
+  243  git commit -m "Added text to file first"
+  244  git push origin master
+  245  git pull origin master
+  246  git checkout -b dev
+  247  git checkout master
+  248  git checkout dev
+  249  ls
+  250  touch second
+  251  git add .
+  252  git status
+  253  git commit -m "Added second file"
+  254  git push origin dev
+  255  git checkout master 
+  256  git pull origin master
+  257  ls
+  258  ді
+  259  git init 
+  260  ls
+  261  mkdir lections
+  262  mkdir homeworks
+  263  ls
+  264  mv second lections/linux
+  265  cd lections/
+  266  ls
+  267  mkdir git_linux
+  268  mv linux git_linux/
+  269  cd ..
+  270  ls
+  271  mv first lections/git_linux/
+  272  git remote add origin https://github.com/Cursoreducation/python-basic-RedRobin.git
+  273  git remote remove origin
+  274  git remote add origin https://github.com/Cursoreducation/python-basic-RedRobin.git
+  275  ls
+  276  cd lections/
+  277  ls
+  278  cd git_linux/
+  279  history
